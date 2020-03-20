@@ -5,7 +5,7 @@ Strona ta powstała z prywatnej inicjatywy Ropa Gonggrijp i Very Wilde, którzy 
 
 Celem covid-at-home jest dzielenie się (w zwięzłej formie) tym, czego się nauczyliśmy, dostarczaniem sensownych i praktycznych informacji o radzeniu sobie z pandemią COVID-19 na zasadach otwartych i niekomercyjnych. Główne założenie jest takie, że w niektórych miejscach COVID-19 przynajmniej tymczasowo obanży słabość systemu opieki zdrowotnej, więc im więcej osób będzie czuło się pewnie w kontaktach z chorymi w domu, tym mniej osób nie będzie się niepotrzebnie pojawiać w gabinetach lekarskich i szpitalach. Jednocześnie ludzie wciąż muszą wiedzieć, kiedy pacjenci będą wymagali pomocy medycznej. 
 
-Chcesz pomóc? Jeśłi Tak! To mamy [cały dział](/pomocy) temu poświęcony.
+Chcesz pomóc? Jeśli Tak! To mamy [cały dział](/pomocy) temu poświęcony.
 
 ### Licencja
 
