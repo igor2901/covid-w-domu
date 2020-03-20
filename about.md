@@ -24,7 +24,7 @@ Ta strona jest lepsza, ponieważ otrzymaliśmy pomoc od (w kolejności alfabetyc
 (Prawo niemieckie wymaga, aby strony internetowe zawierały listę wydawców).
 
 Rop Gonggrijp & Vera Wilde<br>
-LinienstraĂźe 127<br>
+Linienstrasse 127<br>
 10115 Berlin<br>
 Niemcy
 

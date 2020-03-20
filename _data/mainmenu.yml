@@ -1,13 +1,13 @@
 items:
 
-- title: Main Page
+- title: Strona główna
   url: /
   
-- title: Shopping
+- title: Zakupy
   url: /shopping
 
-- title: I can help!
+- title: Mogę pomóc!
   url: /help
             
-- title: About
+- title: O nas
   url: /about
