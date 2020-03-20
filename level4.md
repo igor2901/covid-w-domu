@@ -1,57 +1,57 @@
-## Level 4 -- Professionals Take Over
+## Poziom 4 -- Profesjonaliści przejmują
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+W miarę pogarszania się objawów i pogarszania się stanu pacjenta, częstotliwość pomiarów powinna wzrastać. W tym momencie twój dziennik powinien zawierać temperaturę, oddychanie i rytm serca co kilka godzin.
 
-You should interpret any of the following as a medical emergency:
+Powinieneś zinterpretować którąkolwiek z poniższych sytuacji jako nagły przypadek medyczny:
 
 ### Loss of consciousness
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
+Są różne poziomy. Gdy pacjent traci przytomność, zanotuj, czy pacjent odpowiada, gdy wołasz jego imię (Głos), gdy mocno ściskasz jego ramię (Ból), czy w ogóle nie odpowiada (Brak reakcji).
 
-If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilating the room. But loss of consciousness is serious, get help.
+Jeśli utrata przytomności jest krótkotrwała, można (jeśli pacjent szybko wraca do zdrowia i jest w pełni przytomny!) zachęcić go do jedzenia i picia oraz świeżej wentylacji pomieszczenia. Ale utrata przytomności jest poważna, zwróć się o pomoc.
 
-### Cognitive problems / confusion
+### Problemy poznawcze / zamieszanie
 
-You probably know the patient, so you should be able to tell without any fancy tests if and when he/she is not with it anymore. Sudden onset of confusion is trouble. Seek medical help.
+Prawdopodobnie znasz pacjenta, więc powinieneś być w stanie stwierdzić bez żadnych wymyślnych testów, czy i kiedy już go z nim nie ma. Nagły początek zamieszania to kłopot. Poszukaj pomocy medycznej.
 
-### Too high or too low respiration rate
+### Zbyt wysoki lub zbyt niski poziom oddychania
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
+Liczenie oddechu na minutę, trzymając rękę wystarczająco blisko, aby poczuć oddech pacjenta, obserwując jego klatkę piersiową i/lub brzuch, trzymając w ręku zegar z drugą ręką lub zegarek cyfrowy / stoper telefoniczny. Szybkość oddychania (RR) powinna wynosić od 12 do 20 oddechów na minutę. 
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+Natychmiastowa opieka domowa w przypadku problemów z oddychaniem może obejmować wentylowanie pokoju pacjenta i podparcie go tak, aby mógł on znajdować się w pozycji wyprostowanej, ale wygodnej do odpoczynku. Dobrym pomysłem jest również podniesienie głowy łóżka do spania, jeżeli jest to możliwe, a niektóre pozycje do spania mogą również ułatwić oddychanie (patrz Poziom 3, Praca pielęgnacyjna).
 
 ![](/images/dyspnoe.png)
 
-If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
+Jeśli u ciebie lub pacjenta występuje zadyszka / trudny oddech, zwróć się o poradę do lekarza. 
 
-### Low oxygen saturation
+### Niskie nasycenie tlenem
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+Jeśli posiadasz oksymetr (patrz [strona zakupów](/zakupy)), każde nasycenie tlenem niższe niż 95% może wskazywać na problem z oddychaniem. Jeśli w którymkolwiek momencie **paski lub opuszki palców pacjenta staną się niebieskie** (lub nawet lekko niebieskie) (zwane sinicami), należy wezwać karetkę pogotowia! Cokolwiek mniej niż 96%, zaczerpnij świeżego powietrza do pokoju pacjenta i ogrzej go.
 
 ![](/images/cyanosis.png)
 
-(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+(Wezwij też lekarza, jeśli palce, palce u rąk i nóg lub wargi staną się mniej niebieskie niż to...)
 
-If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+Jeśli skóra pacjenta otrzyma koronkową fioletową nakładkę (zwaną również liveo reticularis) jak poniżej (a to nie jest normalne dla pacjenta), jest to również powód do wezwania pomocy.
 
 ![](/images/livedo-reticularis.png)
 
-### Very low blood pressure
+### Bardzo niskie ciśnienie krwi
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/images/covid-diary.pdf).
+Ciśnienie krwi niższe niż dolna część zakresu normalnego (90 mmHg skurczowe, 60 mmHg rozkurczowe) jest powodem do obaw. Należy pamiętać, że ciśnienie krwi ma dwie wartości: skurczowe i rozkurczowe. Jeśli masz tanie urządzenie automatyczne, powinno ono podawać oba te numery. Jeśli masz urządzenie, zanotuj ciśnienie skurczowe na [formularzu pamiętnika](/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
+Jeśli nie masz urządzenia do pomiaru ciśnienia krwi lub masz problemy z odczytem, spróbuj sprawdzić czas napełnienia kapilary pacjenta. Sprawdź, umieszczając palce płasko na twardej powierzchni. Użyj palca, aby nacisnąć na jeden z jego lub paznokci od góry. Paznokieć powinien stracić kolor. Sprawdź, ile czasu zajmie paznokciowi ponowne obrócenie normalnego koloru. To powinno zająć 1-2 sekundy. Dłużej niż to może wskazywać na niskie ciśnienie krwi. To może być również objaw odwodnienia. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+Odwodnienie jest częstą przyczyną niskiego ciśnienia krwi, dlatego też natychmiastowa opieka domowa może obejmować zachęcanie pacjenta do jedzenia i picia, zwłaszcza żywności lub napojów zawierających niezbędne elektrolity, takie jak potas i sód. Zawroty głowy są częstym objawem niskiego ciśnienia krwi, więc zawroty głowy będą chciały być ostrożne podczas zmiany pozycji (leżenie do pozycji siedzącej, siedzenie do pozycji stojącej); może wystąpić omdlenie. Ale naprawdę, po raz kolejny, jeśli sprawy nie wyglądają jakoś dobrze - jeśli ciśnienie krwi jest bardzo niskie, lub jeśli pacjent ma normalne wysokie ciśnienie krwi i wygląda ono znacznie poniżej normy - ponownie, uzyskać pomoc.
 
-### Too high or too low heart rate
+### Zbyt wysokie lub zbyt niskie tętno
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+Tętno jest łatwiejsze do zmierzenia niż ciśnienie krwi, a zwykle wysokie tętno (powyżej 100-110 uderzeń na minutę dla dorosłego) idzie w parze z niskim ciśnieniem krwi. Mniejsze osoby i dzieci często mają zazwyczaj wyższe tętno. Samo wysokie tętno może nie być powodem do niepokoju, ponieważ może wskazywać na lęk lub odwodnienie. Techniki relaksacyjne i picie / jedzenie czegoś może być odpowiednie. Ale po raz kolejny, wartości wykraczające poza normalny zakres, powinny skłonić cię do natychmiastowego zwrócenia się o pomoc medyczną. Jest to szczególnie prawdziwe, gdy widzisz szybki oddech wraz z niskim ciśnieniem krwi lub wysoką częstością akcji serca i / lub zamieszanie. 
 
 ### Very high fever that comes (back) suddenly
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+Jeśli będziesz regularnie sprawdzać temperaturę, będziesz chciał mieć świadomość, że trend może się nagle odwrócić, nawet jeśli wcześniej wydawało się, że pacjent ma się lepiej. Ważne są regularne pomiary. Gorączka, która jest bardzo wysoka (> 39° Celsjusza) jest wskazówką do szukania pomocy medycznej. Tak samo jak gorączka, która odchodzi, a potem nagle wraca. 
 
 ### Call for help
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people, and doctors that you are not merely panicking for no reason and will likely help get the patient the care he or she needs sooner.
+W przypadku wystąpienia któregokolwiek z powyższych objawów, sytuacja jest poważna! Jeśli jest to w ogóle możliwe, to jest to punkt, w którym nie należy już podejmować żadnych decyzji w oparciu o przewodnik z Internetu. Nie czekaj, aż się pogorszy. Zadzwoń do lekarza, albo zadzwoń na numer alarmowy i zawieź pacjenta do karetki pogotowia. Zachowajcie spokój i zgłoście sytuację taką, jaka jest. Twoja praca jest skończona: Trzymałeś pacjenta z dala od systemu medycznego, kiedy był tylko chory. Teraz nadszedł czas, by zajęli się tym profesjonaliści. Zebrane dane powinny pomóc w przekonaniu operatora, pracowników karetki pogotowia i lekarzy, że nie tylko nie panikujesz bez powodu i najprawdopodobniej pomożesz pacjentowi szybciej uzyskać potrzebną mu opiekę.

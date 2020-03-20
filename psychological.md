@@ -1,37 +1,37 @@
-The following recommendations were taken from the [Austrian Federal Ministry of Defense](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (go figure!). All of it seems good advice in the present circumstances. 
+Następujące zalecenia zostały wzięte z [Austriackiego Federalnego Ministerstwa Obrony](http:/Wwww.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (Załóżmy to!). Wszystko to wydaje się dobrą radą w obecnych okolicznościach. 
 
-## Psychological advice related to COVID-19
+## Porady psychologiczne związane z COVID-19
 
-Isolation can take its toll. A suspicion of an infection, the fear of it, or the illness itself can also put a strain on the psyche. In order to lighten these loads, we recommend:
+Izolacja może zebrać swoje żniwo. Podejrzenie infekcji, strach przed nią lub sama choroba mogą również obciążać psychikę. W celu zmniejszenia tych obciążeń, zalecamy:
 
-**Establish security**: Regular information from reliable sources (e.g., the national broadcaster, websites of public health authorities) helps to prevent thoughts from taking on a life of their own. In this way, security can be established in a situation where fears and worries are completely normal and understandable.
+**Utwórzcie ochronę** Regularne informacje z wiarygodnych źródeł (np. nadawca krajowy, strony internetowe organów ds. zdrowia publicznego) pomagają zapobiegać przejmowaniu przez myśli własnego życia. W ten sposób można zapewnić bezpieczeństwo w sytuacji, w której obawy i zmartwienia są całkowicie normalne i zrozumiałe.
 
-**Accept feelings**: Rapidly changing emotions are normal in crisis situations: From helplessness and fear to anger, annoyance, or feelings of senselessness and emptiness, many emotions can come and go rapidly. In such an emotionally volatile state, you should wait to make any major decisions. 
+**Przyjmij uczucia** Szybko zmieniające się emocje są normalne w sytuacjach kryzysowych: Od bezradności i strachu do gniewu, irytacji lub uczucia bezsensowności i pustki, wiele emocji może przychodzić i odchodzić szybko. W tak niestabilnym emocjonalnie stanie, należy poczekać na podjęcie ważnych decyzji. 
 
-**Set goals**: This gives you back a sense of control. Goals should be realistic and appropriate to the circumstances. They might include: Writing a diary, learning new skills, tidying up, or getting work done that would otherwise always be left undone.
+**Ustawiamy cele** To daje ci poczucie kontroli. Cele powinny być realistyczne i adekwatne do okoliczności. Mogą zawierać: Pisanie pamiętnika, uczenie się nowych umiejętności, sprzątanie lub wykonywanie pracy, która w przeciwnym razie zawsze pozostawałaby niedokończona.
 
-**Talk about it**: Sharing worries with friends, family, colleagues, and comrades helps in times of crisis.
+**Porozmawiajmy o tym** Dzielenie się troskami z przyjaciółmi, rodziną, kolegami i towarzyszami pomaga w czasach kryzysu.
 
-**Stay in touch**: It is important to maintain regular social contact through phone, chat, and video calls. However, the coronavirus topic should not determine the whole conversation. It is important to pay attention to the other person in order to recognize when the topic becomes too much or too stressful.
+**Stay in touch** Ważne jest, aby utrzymywać regularne kontakty towarzyskie przez telefon, czat i rozmowy wideo. Jednak temat koronaawirusa nie powinien decydować o całej rozmowie. Ważne jest, aby zwracać uwagę na drugą osobę, aby rozpoznać, kiedy temat staje się zbytnio lub zbyt stresujący.
 
-**Seek distraction**: Always consciously distract yourself from the predominant coronavirus topic. Have conversations on other topics too, like reading and pursuing hobbies.
+**Odwrócenie uwagi** Zawsze świadomie odwracaj uwagę od dominującego tematu koronaawirusa. Rozmawiaj również na inne tematy, takie jak czytanie i uprawianie hobby.
 
-**Allow humor**: "Humor is allowed!" It is a strong remedy for hopelessness. Smiles and laughter often bring relief.
+**Pozwólcie na humor** "Humor jest dozwolony!" Jest to silne lekarstwo na beznadzieję. Uśmiechy i śmiech często przynoszą ulgę.
 
-**Stay active**: Do things you never have time for and consciously engage in positive activities such as needlework, handicrafts, crafts, cooking something good, and watching a good movie.
+**Stay active**: Rób rzeczy, na które nigdy nie masz czasu i świadomie angażuj się w pozytywne działania, takie jak robienie igieł, rzemiosło, gotowanie czegoś dobrego i oglądanie dobrego filmu.
 
-**Physical activity**: It is also important not to forget about physical balance. Being physically active helps to reduce stress and strain.
+**Działalność fizyczna** Ważne jest również, aby nie zapominać o równowadze fizycznej. Aktywność fizyczna pomaga zredukować stres i zmęczenie.
 
-**Maintain an everyday rhythm**: Try to stay in your usual routine even in this exceptional situation. Get up at certain times, complete your tasks first, and then have free time. You should also eat and go to bed at normal times. This is especially important for children. 
+**Utrzymuj codzienny rytm** Nawet w tej wyjątkowej sytuacji postaraj się pozostać w swojej rutynie. Wstańcie w określonych godzinach, najpierw wykonajcie swoje zadania, a potem zyskajcie wolny czas. Powinieneś też jeść i iść spać o normalnych porach. Jest to szczególnie ważne dla dzieci. 
 
-**Activate resources**: Find things that encourage you. E.g., think up sentences that calm you and your family and give you security, such as: "We will be able to cope with the situation together!" Do not lose sight of your own strengths. In times of crisis, attention is automatically directed to fears and what doesn't work. In order to achieve a psychological balance, it is necessary to consciously focus on the good, the successful, and the strengths.
+**Aktywuj zasoby** Znajdź rzeczy, które cię zachęcą. Np. wymyślić zdania, które uspokoją ciebie i twoją rodzinę i zapewnią ci bezpieczeństwo, np: "Razem poradzimy sobie z tą sytuacją!" Nie trać z oczu własnych sił. W czasach kryzysu, uwaga jest automatycznie kierowana na lęki i to, co nie działa. Aby osiągnąć równowagę psychologiczną, należy świadomie skupić się na tym, co dobre, co udane i co mocne.
 
-**Allay kids' fears**:
-- Be guided by kids’ questions, and then give honest and child-oriented answers.
-- Restrict or monitor media consumption around coronavirus. Do not forbid it, but dose it. Explain, be open to kids’ questions, and stick to it.
-- Provide security through structured, predictable everyday life.
-- Enable social contacts via phone and internet. 
-- Possibly give more attention when fears take over.
-- Stay calm yourself. Fear is contagious.
-- Enable play and distraction.
-- Play together and be creative.
+**Rozwalić strach dzieci**
+- Kieruj się pytaniami dzieci, a następnie udzielaj uczciwych i zorientowanych na dziecko odpowiedzi.
+- Ograniczenie lub monitorowanie zużycia mediów wokół koronaawirusa. Nie zabraniaj tego, tylko dozuj. Wyjaśnij, bądź otwarty na pytania dzieci, i trzymaj się tego.
+- Zapewnienie bezpieczeństwa poprzez uporządkowane, przewidywalne życie codzienne.
+- Włączanie kontaktów towarzyskich przez telefon i internet. 
+- Być może należy poświęcić więcej uwagi, gdy obawy przejmują górę.
+- Zachowajcie spokój. Strach jest zaraźliwy.
+- Włączyć grę i rozproszenie uwagi.
+- Bawcie się razem i bądźcie kreatywni.
