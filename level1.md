@@ -1,45 +1,45 @@
 ## Poziom 1 -- Zdrowy
 
-### Don't Get Infected
+### Nie zaraź się
 
-*(Albo zarażać innych, jeśli zdarza ci się być bezobjawowym/ COVID-19... Przypadki asymptomatyczne nadal są zaraźliwe.)*
+*(Lub nie zainfekuj innych, jeśli zdarzy ci się nie mieć objawów / czuć się dobrze, ale tak naprawdę masz COVID-19… Przypadki bezobjawowe są nadal zakaźne.)*
 
 W miarę możliwości należy postępować zgodnie z instrukcjami władz. Obejmuje to niektóre znane już wytyczne dotyczące społecznego zdystansowania:
 
 * Zmień swoje pozdrowienia. Zamiast uścisku dłoni, uścisku lub pocałunku(ów), spróbuj machać lub kłaniać się na odległość.
 * Twoje oczy, nos i usta to możliwe sposoby, by wirus dostał się do twojego ciała. Umyj ręce przed dotknięciem twarzy. Nie dotykaj twarzy, gdy jesteś na zewnątrz.
-* Umyj energicznie ręce mydłem i wodą tak często, jak to możliwe, również zaraz po powrocie do domu i przed jedzeniem. W miarę możliwości stosować mydło i wodę, a nie środek do dezynfekcji rąk: Jest bardziej [wiarygodny](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
-* Zmień swoje ubranie, kiedy wrócisz do domu również. 
+* Umyj energicznie ręce mydłem i wodą tak często, jak to możliwe, również zaraz po powrocie do domu i przed jedzeniem. W miarę możliwości stosuj mydło i wodę, a nie środek do dezynfekcji rąk: Jest bardziej [wiarygodne](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
+* Zmień również swoje ubranie, kiedy wrócisz do domu. 
 * Regularnie sterylizuj klamki przy drzwiach, powierzchnie stołów, klawiatury i inne miejsca, których ludzie często dotykają.
-* Kaszleć i kichać w łokieć, nie w rękę, ani bez zabezpieczenia. 
-* Pracować z domu, kiedy to możliwe.
-* W miarę możliwości należy stosować alternatywy dla spotkań osobistych (np. rozmowy wideo lub głosowe). 
-* Unikaj tłumów i niepotrzebnych podróży. Jeśli musisz iść na zakupy, zrób to, gdy sklepy są mniej zajęte. Jeśli musisz być w tłumie, staraj się zachować osobisty dystans do innych i odsunąć się od każdego, kto wydaje się być chory (np. kaszle lub kicha). 
-* Zamiast jechać tranzytem publicznym, chodzić lub jeździć na rowerze gdziekolwiek można. W przypadku konieczności skorzystania z transportu publicznego należy ponownie zachować osobisty dystans od innych i oddalić się od osób chorych. 
-* Zamiast chodzić do restauracji, gotować i jeść w domu. 
-* Zamiast dostarczać jedzenie lub artykuły spożywcze lub dostarczać je do innej osoby w domu, mającej bezpośredni kontakt, umów się na ich pozostawienie lub pozostawienie poza drzwiami. 
+* Jeśli kaszlesz i kichasz to w łokieć, nie w rękę. 
+* Pracuj z domu, kiedy to możliwe.
+* W miarę możliwości należy stosować alternatywy dla spotkań osobistych (np. rozmowy wideo lub telefoniczne). 
+* Unikaj tłumów i niepotrzebnych podróży. Jeśli musisz iść na zakupy, zrób to, gdy sklepy są są jak najmniej zajęte. Jeśli musisz być w tłumie, staraj się zachować dystans do innych i odsuwaj się od każdego, kto wydaje się być chory (np. kaszle lub kicha). 
+* Zamiast jechać środkami komunikacji publicznej, chodź pieszo lub jedź rowerem gdziekolwiek można. W przypadku konieczności skorzystania z transportu publicznego należy ponownie zachować osobisty dystans od innych i oddalić się od osób chorych. 
+* Zamiast chodzić do restauracji, gotuj i jedz w domu. 
+* Zamiast dostarczać jedzenie lub artykuły spożywcze bezpośrednio innej osobie, umów się na ich pozostawienie lub pozostawienie pod drzwiami. 
 * Zamiast spotykać się z przyjaciółmi na kawę lub drinka, zróbcie sobie video-czat lub skoordynujcie spacer do sklepu spożywczego, zachowując jednocześnie [bezpieczną odległość] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) co najmniej 1,5 metra, lub około pięciu stóp od siebie. 
-* Zamiast ćwiczyć wewnątrz (np. na siłowni), wyjdź na zewnątrz na spacer lub biegnij, jeśli pogoda na to pozwala, zachowując jednocześnie dystans do innych osób. 
-* Postępuj zgodnie z wszelkimi dodatkowymi poradami rządu / urzędu zdrowia publicznego, w tym z ewentualnymi poradami dotyczącymi przebywania w pomieszczeniach zamkniętych, kiedy to będzie miało zastosowanie do miejsca pobytu.
+* Zamiast ćwiczyć wewnątrz (np. na siłowni), wyjdź na zewnątrz na spacer lub idź pobiegać, jeśli pogoda na to pozwala, zachowując jednocześnie dystans do innych osób. 
+* Postępuj zgodnie z wszelkimi dodatkowymi poradami rządu / urzędu zdrowia publicznego, w tym z ewentualnymi poradami dotyczącymi przebywania w pomieszczeniach zamkniętych, kiedy to będzie konieczne.
 
 
-### Stay Healthy
+### Pozostań zdrowy
 
 ![](/images/situps.png)
 
-Poza tym, możesz robić rzeczy, aby pozostać jak najzdrowszym:
+Poza tym, możesz robić wszystko, aby pozostać jak najzdrowszym:
 
 * Wentyluj często swoje pokoje.
-* Jedzcie odpowiednie ilości zdrowej, bogatej w składniki odżywcze żywności. Obejmują co najmniej niektóre węglowodany (np. chleb, ziemniaki, makaron, ryż itd.). Witaminy D ("witamina słoneczna") i C mogą być szczególnie pomocne w zapobieganiu lub łagodzeniu skutków infekcji dróg oddechowych. 
+* Jedzcie odpowiednie ilości zdrowej, bogatej w składniki odżywcze żywności. Obejmującej co najmniej niektóre węglowodany (np. chleb, ziemniaki, makaron, ryż itd.). Witaminy D ("witamina słoneczna") i C mogą być szczególnie pomocne w zapobieganiu lub łagodzeniu skutków infekcji dróg oddechowych. 
 * Pijcie wystarczająco dużo płynów, głównie wody.
-* Zróbcie regularne ćwiczenia. Jeśli jest to zalecane lub wymagane, aby pozostać w domu, znaleźć sposób, aby dostać się do domu: Tańcz do ulubionych piosenek z przyjaciółmi za pośrednictwem wideo-czatu, dołącz do jogi online lub innych zajęć ruchowych, albo spróbuj prostych podstawowych ćwiczeń wagi ciała, takich jak pompki, przysiady i przysiady w połączeniu z prostymi stacjonarnymi ćwiczeniami aerobowymi, takimi jak skakanki, hula hooping i skakanie. 
+* Ćwicz regularnie. Jeśli jest to zalecane lub wymagane, aby pozostać w domu, znajdź sposób, aby pozostać aktywnym: Tańcz do ulubionych piosenek z przyjaciółmi za pośrednictwem wideo-czatu, dołącz do jogi online lub innych zajęć ruchowych, albo spróbuj prostych podstawowych ćwiczeń, takich jak pompki, przysiady i przysiady w połączeniu z prostymi stacjonarnymi ćwiczeniami aerobowymi, takimi jak skakanki, hula hooping i skakanie. 
 * Jeżeli palisz, rzuć palenie.
-* Unikaj intensywnego picia i zażywania innych narkotyków, ponieważ alkohol i inne narkotyki mają tendencję do tłumienia funkcji odpornościowych.
-* Jeśli chcesz zrobić więcej po wcześniejszym omówieniu tych podstawowych kwestii, rozważ [opcje medycyny komplementarnej](/komplementarnej), aby poprawić odporność, zapobiegać i leczyć infekcje górnych dróg oddechowych i/lub wirusowe itp. Istnieje pewna liczba potencjalnie użytecznych opcji, ale należy pamiętać, że dotychczasowy materiał dowodowy jest specyficzny dla różnych kontekstów. Wielu sprzedawców olejków wężowych zarobi tutaj dużo pieniędzy na panice, nie oferując rzeczywistej pomocy. Nie daj się na nie nabrać. 
+* Unikaj intensywnego picia i zażywania innych narkotyków, ponieważ alkohol i inne narkotyki mają tendencję do tłumienia funkcji odpornościowych organizmu.
+* Jeśli chcesz zrobić coś więcej, rozważ [opcje medycyny komplementarnej](/komplementarnej), aby poprawić odporność, zapobiegać i leczyć infekcje górnych dróg oddechowych i/lub wirusowe itp. Istnieje pewna liczba potencjalnie użytecznych opcji i specyfików.
 
-### Psychologiczne samopoczucie
+### Samopoczucie psychiczne
 
-Czasami będzie to dla każdego z nas szorstkie i wpłynie na każdego z nas inaczej. patrz strona z [zaleceniami, wskazówkami i wskazówkami dotyczącymi dobrego samopoczucia psychicznego](/psychologicznego).
+Ta sytuacja może byc trudna i wpłynie na każdego z nas inaczej. patrz strona z [zaleceniami, wskazówkami i wskazówkami dotyczącymi dobrego samopoczucia psychicznego](/psychologicznego).
 
 ### Przygotuj się
 
