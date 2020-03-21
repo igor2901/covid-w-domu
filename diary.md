@@ -4,7 +4,7 @@ Poniżej przykład, jak może wyglądać strona pamiętnika w Twoim dzienniku CO
 
 <a href="/images/covid-diary.pdf"><img style="border: 2px lity czarny; drop-shadow(16px 16px 10px czarny)" src="/images/covid-diary.png"></a>
 
-(kliknij na obrazek, aby otrzymać plik PDF do wydrukowania)
+(kliknij na obrazek, aby otrzymać plik PDF do wydruku)
 
 ### Jak zacząć
 
