@@ -15,8 +15,7 @@ Ta strona jest publikowana na licencji międzynarodowej [Creative Commons Uznani
 
 Ta strona jest aktualizowana i poprawiana, ponieważ otrzymaliśmy pomoc od (w kolejności alfabetycznej):
 
-{% for person in site.data.thankyou.people %}
-* {{ person.name }}
+{% for person in site.data.thankyou.people %}* {{ person.name }}
 {% endfor %}
 
 ### Komentarz
