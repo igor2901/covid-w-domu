@@ -1,4 +1,4 @@
-Ta strona internetowa (poradnik) została wykonana w odpowiedzi na pandemię COVID-19, ale wiele z tych porad może mieć zastosowanie w innych sytuacjach. Wiele z tego, o czym tutaj mówimy, może być dla niektórych oczywiste, ale uznaliśmy, że dobrze jest mieć w jednym miejscu kilka list kontrolnych i porad dotyczących różnych stadiów choroby. Te porady konsultowaliśmy z pielęgniarkami i lekarzami ale większość tego tekstu została napisana przez osoby niewykształcone medycznie, starające się wspólnie przygotowac sie na zaistniała i dla nas wszystkich nową sytuację. 
+Ta strona internetowa (poradnik) została przygotowana w odpowiedzi na pandemię COVID-19, ale wiele z tych porad może mieć zastosowanie w innych sytuacjach. To o czym tutaj mówimy, może być dla niektórych oczywiste, ale uznaliśmy, że dobrze jest mieć w jednym miejscu kilka list kontrolnych i porad dotyczących różnych stadiów choroby. Te porady konsultowaliśmy z pielęgniarkami i lekarzami ale większość tego tekstu została napisana przez osoby niewykształcone medycznie, starające się wspólnie przygotowac sie na zaistniała i dla nas wszystkich nową sytuację. 
 
 Oczywiście zalecamy aby: **Słuchać LOKALNYCH ORGANÓW ZDROWIA, LEKARZY I SŁUŻB MEDYCZNYCH**
 
@@ -24,12 +24,9 @@ Niektórzy z autorów mają krytyczne uwagi do sposobu funkcjonowania agend rzą
   * Ograniczenie kontaktów ludzi to najlepsza szansa w walce przeciw COVID-19, jaką mamy i szansa na uratowanie wielu istnień ludzkich. Ograniczanie rozprzestrzeniania się choroby wymaga szerokiej współpracy i wdrożenia takich środków, jak szeroka dostępność testów i zdystansowanie społeczne (zob. poziom 1 poniżej).  
   * Z tych powodów nadszedł czas, aby zmienić nasz styl życia, aby zająć się bardzo realnym zagrożeniem, jakie stanowi dla naszego świata pandemia. * 
 
-Pamiętaj, że nie ma różnicy w potencjalnej infekcyjności między przyjaciółmi a obcymi. Nie istnieje rasa, grupa etniczna lub narodowość, która jest wrodząco bardziej narażona na dostanie się lub przenoszenie wirusa niż inna. Staraj się pomagać innym, kiedy możesz, nie będąc niepotrzebnie w kontakcie z dużymi grupami ludzi. Są tu oczywiste kompromisy, które każdy musi ważyć dla siebie. Niektórzy ludzie będą musieli mieć więcej kontaktów z innymi ludźmi niż inni. Spowolnienie rozprzestrzeniania się nie jest nigdy absolutne, ale w całym społeczeństwie nasze wysiłki nadal działają, kiedy każdy robi to, co może, w ramach swoich możliwości.
+Pamiętaj, że nie ma różnicy w potencjalnej infekcyjności między przyjaciółmi a nieznajomymi. Nie istnieje rasa, grupa etniczna lub narodowość, która jest z natury bardziej narażona na zarażenie się lub przenoszenie wirusa niż inna. Staraj się pomagać innym, kiedy możesz, nie będąc niepotrzebnie w kontakcie z dużymi grupami ludzi. Są tu oczywiste kompromisy, które każdy musi rozważyć. Niektórzy ludzie będą musieli mieć więcej kontaktów z innymi ludźmi niż inni. Spowolnienie rozprzestrzeniania się nie jest nigdy absolutne ale w przekroju całego społeczeństwa nasze wysiłki działają, kiedy każdy zrobi to, co może.
 
-
-*W tym miejscu w wielu miejscach używa się jednostek metrycznych, choć czasami dostarczane są zarówno jednostki metryczne jak i cesarskie. Mamy nadzieję, że w ciągu kilku najbliższych dni będziemy oferować metryczne i imperialne wersje wszystkiego.*
-
-> **YOU CAN HELP MAKE THIS SITE BETTER.** *Jeśli widzisz coś, co mogłoby być lepsze, proszę [kliknij tutaj](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), aby zgłosić problem. Jak widać, backend tej strony jest na Githubie, więc jeśli znasz to środowisko, prawdopodobnie możesz pomyśleć o innych sposobach na pomoc. Aby odnieść sukces, będzie to musiało być rozszerzenie współpracy.*
+> **MOŻESZ POMÓC, BY TA STRONA BYŁA JAK NAJLEPSZEJ JAKOŚCI.** *Jeśli widzisz coś, co mogłoby być ulepszone, proszę [kliknij tutaj](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), aby zgłosić problem. Źródło informacji tej strony jest utrzymywane na Githubie, jeśli znasz to środowisko, możesz wesprzeć nasze działania. Sukces będzie zależał od współpracy społeczności.*
 
 &nbsp; 
 
