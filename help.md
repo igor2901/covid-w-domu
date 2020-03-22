@@ -10,13 +10,13 @@ To jest teraz jedna z najważniejszych spraw, które możesz zrobić, aby pomóc
 
 Możemy szybko stworzyć stronę z domeną w Twoim języku i połączyć ją z główną angielską stroną internetową. Jedyne co musisz zrobić, to przetłumaczyć tekst w interfejsie edycyjnym Githuba. Uważamy, że cała strona internetowa w obecnym kształcie (15 marca 2020 r.) może być przetłumaczona w ciągu dwóch do trzech osobodni. Nie musisz być profesjonalnym tłumaczem. Jeśli Twoim językiem jest hiszpański, niemiecki, francuski, portugalski, włoski, holenderski, polski lub rosyjski, możemy skonfigurować Twoją stronę wstępnie załadowaną z automatycznie przetłumaczonym tekstem, który "tylko" musi być poprawiony. (Używamy do tego celu [tłumacza DeepL](https://www.deepl.com/translator), który jest nieco lepszy niż Google Translate; teksty będą wymagały jeszcze sporo pracy ręcznej, ale to oszczędza czas w porównaniu z robieniem tego wszystkiego ręcznie. Jeśli wasz język ma struktury formalne i nieformalne, staramy się używać języka nieformalnego, również po to, aby pokazać, że jest to wspólny wysiłek. 
 
-Chcesz pomóc? Tak! Zapobiegaj podwójnej pracy: nie zaczynaj bez rozmowy z nami. Skontaktuj się z nami już teraz, wysyłając maila na adres [team@covid-at-home.info](mailto:team@covid-at-home.info) lub dołączając bezpośrednio do [zespołowej wideokonferencji](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome). (Staramy się być tam regularnie. Jeśli nas tam nie ma, bądź cierpliwy ktoś za chwilę ołączy).
+Chcesz pomóc? Tak! Zapobiegaj podwójnej pracy: nie zaczynaj bez rozmowy z nami. Skontaktuj się z nami już teraz, wysyłając maila na adres [team@covid-at-home.info](mailto:team@covid-at-home.info) lub dołączając bezpośrednio do [zespołowej wideokonferencji]({{ site.data.languages.conf }}). (Staramy się być tam regularnie. Jeśli nas tam nie ma, bądź cierpliwy ktoś za chwilę ołączy).
 
 (Jeśli możesz podać przydatne linki ze swojego kraju z tłumaczeniem, to równiez się przyda).
 
 #### Pomoc dotycząca treści
 
-Składamy wyrazy szacunku jeśli jesteś lekarzem, pielęgniarką lub urzędnikiem zdrowia publicznego. Mamy nadzieję, że w najbliższych miesiącach ułatwimy ci pracę. Przeczytaj proszę informacje ze strony i powiedz nam, czy masz jakieś uwagi. Ale to dotyczy także każdego, kto ma coś do dodania. Jeśli chcesz z nami porozmawiać, prosimy albo [zgłoś problem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [napisz do nas](mailto:team@covid-at-home.info), albo przyłącz się do [zespołowej wideokonferencji](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome).
+Składamy wyrazy szacunku jeśli jesteś lekarzem, pielęgniarką lub urzędnikiem zdrowia publicznego. Mamy nadzieję, że w najbliższych miesiącach ułatwimy ci pracę. Przeczytaj proszę informacje ze strony i powiedz nam, czy masz jakieś uwagi. Ale to dotyczy także każdego, kto ma coś do dodania. Jeśli chcesz z nami porozmawiać, prosimy albo [zgłoś problem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [napisz do nas](mailto:team@covid-at-home.info), albo przyłącz się do [zespołowej wideokonferencji]({{ site.data.languages.conf }}).
 
 ### Korekta
 
