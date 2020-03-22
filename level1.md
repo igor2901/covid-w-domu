@@ -43,24 +43,24 @@ Ta sytuacja może byc trudna i wpłynie na każdego z nas inaczej. patrz strona 
 
 ### Przygotuj się
 
-A do tego można przygotować się tak, abyś znał rzeczy, które trzeba będzie zrobić, gdy choroba przyjdzie pukać. Przeczytaj resztę tego przewodnika. Jest statystycznie mało prawdopodobne, aby ktokolwiek w twoim gospodarstwie domowym doznał zagrażających życiu powikłań i miejmy nadzieję, że wszyscy będą mieli zapewnioną opiekę medyczną. Nie zaszkodzi być trochę bardziej gotowym na najgorszy scenariusz. Ale pamiętaj jednocześnie, że nie ma powodu do paniki. Weź głęboki oddech i kontynuuj swoje regularne życie jak najlepiej.
+Chodzi o to abyś znał sprawy, które trzeba będzie zrobić, gdy choroba zapuka do drzwi. Przeczytaj resztę tego przewodnika. Statystycznie jest mało prawdopodobne, aby ktokolwiek w twoim domu doznał powikłań zagrażających życiu i miejmy nadzieję, że wszyscy będą mieli zapewnioną opiekę medyczną. Nie zaszkodzi jednak być gotowym na gorszy scenariusz. Ale pamiętaj jednocześnie, że nie ma powodu do paniki.
 
-### Get the things you need
+### Zdobądź to, co będzie potrzebne
 
-Zrobiliśmy [stronę z zakupami](/zakupami), która zawiera listę przydatnych rzeczy, które mogą pomóc Ci dbać o siebie i innych.
+Zrobiliśmy [stronę z zakupami](/zakupami), która zawiera listę przydatnych rzeczy, które mogą pomóc dbać o siebie i innych.
 
-### Existing Medical Conditions
+### Uwarunkowania zdrowotne
 
-Jeśli ty lub twoi bliscy cierpicie na istniejące schorzenia, teraz jest czas, aby przeczytać o tym, jak te schorzenia mogą się pogorszyć przez COVID-19 / zapalenie płuc. /Powinni się dodatkowo upewnić, że mają mnóstwo /waszych niezbędnych leków. Upewnij się, że posiadasz wszystkie informacje istotne dla leczenia (dane kontaktowe lekarzy, ostatnie wyniki badań laboratoryjnych, ilość zażywanych przez pacjenta leków). Załóżmy na chwilę, że nie ma twojego stałego lekarza i musisz to wszystko wyjaśnić nowemu lekarzowi, który ma bardzo mało czasu. Niedawny harmonogram wizyt, wyniki itp. byłyby miłe. Czego nie powinieneś zapomnieć? Zapisz to teraz!
+Jeśli ty lub twoi bliscy cierpicie na inne schorzenia, przeczytajcie o tym, jaki wpływ na te schorzenia może mieć COVID-19 / zapalenie płuc. /Osoby powinny się dodatkowo upewnić, że mają zapas niezbędnych leków. Upewnij się, że posiadasz wszystkie informacje istotne dla leczenia (dane kontaktowe lekarzy, ostatnie wyniki badań laboratoryjnych, ilość zażywanych przez pacjenta leków). Załóżmy na chwilę, że nie ma twojego stałego lekarza i musisz to wszystko wyjaśnić nowemu lekarzowi, który ma bardzo mało czasu. Zapisuj na bieząco wszystkie istotne objawy!
 
-Jakiego rodzaju istniejące schorzenia mogą sprawić, że Ty/ Twoi bliscy staniecie się szczególnie narażeni na poważniejsze problemy COVID-19?
-- Warunki, które dotyczą płuc / problemów z oddychaniem (np. astma, POChP, rak płuc).
+Jakie schorzenia mogą sprawić, że Ty/ Twoi bliscy staniecie się szczególnie narażeni na poważniejsze problemy COVID-19?
+- Schorzenia które dotyczą płuc / problemów z oddychaniem (np. astma, POChP, rak płuc).
 - Schorzenia serca, zwłaszcza przewlekłe choroby układu krążenia (np. nadciśnienie tętnicze, zastoinowa niewydolność serca, migotanie przedsionków).
 - Choroby, które wiążą się z upośledzeniem funkcji immunologicznej lub które wymagają przyjmowania leków immunosupresyjnych (np. toczeń, zapalenie stawów, przeszczepianie narządów, niektóre formy raka).
 - Inne przewlekłe choroby hematologiczne, wątrobowe, metaboliczne, neurologiczne, nerwowo-mięśniowe, nerkowe lub zaburzenia (np. niedokrwistość sierpowata, cukrzyca, dystrofia mięśniowa, choroby nerek). 
 
-### Prewencyjna opieka
+### Opieka prewencyjna
 
-Jeśli sytuacja w miejscu, w którym się znajdujemy, jest nadal nieco normalna, może to być dobry moment, aby krótko zapytać lekarza, co (jeśli w ogóle) powinien teraz zrobić i co powinien zrobić w przypadku zachorowania. Jeśli nie zaszczepiono się jeszcze przeciw grypie sezonowej, pneumokokowemu zapaleniu płuc lub meningokokowemu zapaleniu opon mózgowych, może to być dobry moment, aby zapytać lekarza, czy jesteś kandydatem na te szczepionki. Uzyskanie tych szczepień teraz, jeśli lekarz radzi, że może pomóc zapobiec innej infekcji z narastających problemów, które mogą być spowodowane przez COVID-19, powinien być zainfekowany później. 
+Jeśli sytuacja w miejscu, w którym się znajdujemy, nie jest kryzysowa, to dobry moment, aby skonultować z lekarzem, co (jeśli w ogóle) powinniśmy teraz zrobić i co trzeba zrobić w przypadku zachorowania. Jeśli jesteś przed szczepieniem przeciw grypie sezonowej, pneumokokowemu zapaleniu płuc lub meningokokowemu zapaleniu opon mózgowych, warto zapytać lekarza, czy jesteś kandydatem na wykonanie tych szczepień. Uzyskanie tych szczepień teraz (według zaleceń lekarza) może pomóc zapobiec innej infekcji i większych problemów, które mogą być spowodowane przez COVID-19. 
 
-Podczas pandemii typowe dla szczepień ochronnych dzieci, opieki zdrowotnej nad matkami i opieki zdrowotnej w przypadku przewlekłych chorób jest anulowanie lub opóźnienie, ponieważ lekarze, pielęgniarki, szpitale i reszta systemu opieki zdrowotnej mogą być przeciążone, a także dlatego, że ludzie mogą bać się chodzić do gabinetów lekarskich lub szpitali ze strachu (czasami racjonalnego) przed narażeniem na choroby. W przypadku, gdy COVID-19 nie ma jeszcze dużego wpływu na Twój obszar: Czy jest jakieś normalne szczepienie w dzieciństwie, które chcesz mieć pewność, że Twoje dziecko otrzyma, póki może? Jakąkolwiek opiekę prenatalną lub rutynową w przypadku przewlekłego stanu zdrowia możesz otrzymać teraz zamiast za miesiąc? A co z innymi schorzeniami, które są powszechne dla ciebie lub twoich bliskich? Wszystko, co można zrobić, aby przygotować się do opieki nad sobą bez normalnego dostępu do opieki medycznej w najbliższych miesiącach, w przypadku gdy trudniej jest uzyskać czas z lekarzami i pielęgniarkami, ponieważ są one przytłoczone? Zrób to teraz. 
+Podczas pandemii zabiegi planowane w tym  szczepienia ochronne dzieci i opieki zdrowotnej w przypadku przewlekłych chorób jest anulowanie lub opóźnienie, ponieważ lekarze, pielęgniarki, szpitale i reszta systemu opieki zdrowotnej mogą być przeciążone. Dodatkowo ludzie mogą bać się chodzić do gabinetów lekarskich lub szpitali ze strachu (czasami racjonalnego) przed narażeniem na choroby. W przypadku, gdy COVID-19 nie ma jeszcze dużego wpływu na Twój obszar zamieszkania: szczepienia dzieci, opieka prentalna lub rutynowa w przypadku przewlekłego stanu zdrowia warto zrobić to teraz. Dotyczy to wszystkich działań które można zrobić, aby przygotować się do opieki bez normalnego dostępu do opieki medycznej w najbliższych miesiącach, w przypadku gdy trudniej jest uzyskać dostęp do lekarza i pielęgniarki, ponieważ pracownicy opieki medyczni będą przeciążeni. 
