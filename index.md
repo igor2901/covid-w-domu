@@ -21,8 +21,8 @@ Niektórzy z autorów mają krytyczne uwagi do sposobu funkcjonowania agend rzą
 ### Fakty: 
 
   * COVID-19 stanowi faktyczne zagrożenie. 
-  * To wirus pochodzący z natury, który zmutował zwierząt i przeniósł się na ludzkich żywicieli. 
-  * Wydaje się, że jest on około dwa razy bardziej zakaźny i powoduje większe spustoszenie niż wirus grypy sezonowej (grypa). Wirus ten jest gorszy niż grypa, ponieważ populacja świata jak dotąd nie ma nabytej odporności. Nowe choroby są bardziej niebezpieczne, ponieważ ich wskaźniki infekcji mogą rosnąć niewiarygodnie szybko (nawet wykładniczo). Tak szybkie rozprzestrzenianie się nowej choroby może szybko pogrążyć nawet dojrzałe systemy opieki zdrowotnej, uniemożliwiając dostęp do nich każdemu, kto potrzebuje opieki - a to z kolei przyczynia się do poważniejszych chorób i zgonów. 
+  * To wirus pochodzący z natury, który zmutował ze zwierząt i przeniósł się na ludzkich żywicieli. 
+  * Wydaje się, że jest on około dwa razy bardziej zakaźny i powoduje większe spustoszenie niż wirus grypy sezonowej. Wirus ten jest gorszy niż grypa, ponieważ populacja świata jak dotąd nie ma nabytej odporności. Nowe choroby są bardziej niebezpieczne, ponieważ ich wskaźniki infekcji mogą rosnąć niewiarygodnie szybko (nawet wykładniczo). Tak szybkie rozprzestrzenianie się nowej choroby może szybko pogrążyć nawet dojrzałe systemy opieki zdrowotnej, uniemożliwiając dostęp do nich każdemu, kto potrzebuje opieki - a to z kolei przyczynia się do poważniejszych chorób i zgonów. 
   * Ograniczenie kontaktów ludzi to najlepsza szansa w walce przeciw COVID-19, jaką mamy i szansa na uratowanie wielu istnień ludzkich. Ograniczanie rozprzestrzeniania się choroby wymaga szerokiej współpracy i wdrożenia takich środków, jak szeroka dostępność testów i zdystansowanie społeczne (zob. poziom 1 poniżej).  
   * Z tych powodów nadszedł czas, aby zmienić nasz styl życia, aby zająć się bardzo realnym zagrożeniem, jakie stanowi dla naszego świata pandemia. * 
 
