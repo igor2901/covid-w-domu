@@ -8,6 +8,8 @@ Kiedy w drugim tygodniu marca 2020 roku zaczęliśmy tworzyć tę stronę w Berl
 
 Przewodnik ten opiera się na założeniu, że w najbliższych miesiącach więcej ludzi niż zwykle zachoruje. Miejmy nadzieję że sytuacja nie będzie tak tragiczna, ale zakładamy, że lekarze i szpitale będą bardzo zajęci, jeśli nie przeciążeni. Musimy zmierzyć się z możliwością, że niektóre osoby, które normalnie byłyby pod opieką lekarską, mogą wymagać opieki w domu. Mamy nadzieję, że te informacji dadzą Państwu więcej pewności w radzeniu sobie z tą chorobą, co samo w sobie zmniejszy obciążenie służb medycznych. Jednocześnie mamy nadzieję, że przekażemy Ci informacje, które pomogą określić moment kiedy nadszedł czas, aby uzyskać profesjonalną pomoc medyczną.
 
+[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+
 Niniejszy przewodnik zawiera ogólne wskazówki, do zastosowania w różnych sytuacjach. Możemy dodawać informacje, które są specyficzne dla niektórych krajów lub regionów, ale należy śledzić informmacje publikowane w lokalnych źródłach. 
 
 Niektórzy z autorów mają krytyczne uwagi do sposobu funkcjonowania agend rządowych i autorytetów, ale w tym momencie zaufanie do władz odpowiedzialnych za zdrowie publiczne jest niezbędne. Tam, gdzie występują rozbieżności, należy zaufać renomowanym źródłom, takim jak:
