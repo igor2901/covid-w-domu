@@ -10,7 +10,7 @@ To wtedy zaczynasz mówić osobom wokół siebie, że jesteś naprawdę chory i 
 
 ### W każdym razie
 
-* Zostań w łóżku. W tym momencie odpoczynek jest bardzo ważny. Pacjent powinien spać jak najwięcej. Przynajmniej na początku pacjenci nadal będą mogli wstać z łóżka na ograniczony czas. Toaleta, szybko spłukiwany prysznic, raz dziennie pomiary wagi (uwaga w [pamiętniku] (/images/covid-diary.pdf)). Nałóż nowe prześcieradła na łóżko tak często, jak to możliwe i pierz stare prześcieradła w temperaturze 60 stopni Celsjusza lub większej.
+* Zostań w łóżku. W tym momencie odpoczynek jest bardzo ważny. Pacjent powinien spać jak najwięcej. Przynajmniej na początku pacjenci nadal będą mogli wstać z łóżka na ograniczony czas. Toaleta, szybko spłukiwany prysznic, raz dziennie pomiary wagi [w pamiętniku] (/images/covid-diary.pdf). Nałóż nowe prześcieradła na łóżko tak często, jak to możliwe i pierz stare prześcieradła w temperaturze 60 stopni Celsjusza lub większej.
 * Wentyluj pokój tak często, jak to możliwe.
 * Pij więcej wody! (więcej niż 2 litry i mniej niż 5 litrów dziennie).
 * Spróbuj jeść pokarmy bogate w witaminy, ale napój multiwitaminowy też jest w porządku.
