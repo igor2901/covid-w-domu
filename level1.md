@@ -47,7 +47,7 @@ Chodzi o to abyś znał sprawy, które trzeba będzie zrobić, gdy choroba zapuk
 
 ### Zdobądź to, co będzie potrzebne
 
-Zrobiliśmy [stronę z zakupami](/shopping.md), która zawiera listę przydatnych rzeczy, które mogą pomóc dbać o siebie i innych.
+Zrobiliśmy [stronę z zakupami](/shopping), która zawiera listę przydatnych rzeczy, które mogą pomóc dbać o siebie i innych.
 
 ### Uwarunkowania zdrowotne
 
