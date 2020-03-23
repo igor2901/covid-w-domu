@@ -1,6 +1,6 @@
 ## Poziom 2 -- Pojawiające się symptomy
 
-![](/images/sneeze-emoji.png)
+![](/images/sneezing-emoji.png)
 
 Zwróć uwagę, jeśli doświadczasz któregoś z następujących objawów:
 
@@ -39,7 +39,7 @@ Członkowie gospodarstw domowych osób, o których wiadomo lub podejrzewa się, 
 
 Nalezy regularnie czyścić wszystkie często dotykane powierzchnie za pomocą domowego wybielacza rozcieńczonego wodą: 10 ml / 2 łyżki wybielacza z połową litra / 2 szklanki wody (dokładnie umyć narzędzia pomiarowe przed ponownym użyciem). Roztwór ten można umieścić w nieużywanym opryskiwaczu do roślin lub w butelce z aerozolem. Przed wytarciem do sucha należy dać opryskanej powierzchni minutę na aktywowania się środka.
 
-To moment aby pomyśleć o środkach ochrony osobistej (PPE). Jeśli możesz dostać maskę, załóż ją. Odpowiednie mogą być również rękawice jednorazowe, rękawice ochronne z długimi rękawami i ochrona oczu. Strona [shopping page](/shopping) zawiera kilka pomysłów na przedmioty ochrony osobistej, a także ważne informacje o tym, kiedy i jak ich używać.
+To moment aby pomyśleć o środkach ochrony osobistej (PPE). Jeśli możesz dostać maskę, załóż ją. Odpowiednie mogą być również rękawice jednorazowe, rękawice ochronne z długimi rękawami i ochrona oczu. Strona [strona zakupów](/shopping) zawiera kilka pomysłów na przedmioty ochrony osobistej, a także ważne informacje o tym, kiedy i jak ich używać.
 
 W większości miejsc przyjdzie pewnie moment, kiedy liczba przypadków będzie rosła wykładniczo, wiele osób będzie już miało COVID-19, a władze nie będą już prowadzić ewidencji, kto go miał, a kto nie. Sposób zachowania pozostaje więc taki sam: Staraj się jak najlepiej chronić osoby starsze i osoby z istniejącymi chorobami i staraj się minimalizować ich mobilność, kiedy tylko możesz. Pamiętajcie: Im bardziej możemy spowolnić lub całkowicie zmniejszyć rozprzestrzenianie się choroby, tym lepiej dla wszystkich. Ponieważ pomagając spowolnić lub zatrzymać rozprzestrzenianie się choroby, możesz pomóc zmniejszyć stopień przeciążenia systemu opieki zdrowotnej. To z kolei zwiększy liczbę osób potrzebujących opieki medycznej, które są w stanie uzyskać do niej dostęp. To pomaga lekarzom i pielęgniarkom ratować więcej istnień ludzkich. 
 
@@ -47,7 +47,7 @@ W większości miejsc przyjdzie pewnie moment, kiedy liczba przypadków będzie 
 
 Kiedy objawy zaczynają się pojawiać, jest to właściwy moment na rozpoczęcie korzystania z dziennika choroby. 
 
-Kilka razy dziennie, najlepiej w regularnych godzinach lub w normalnych rytmach (np. codziennie rano przed zrobieniem kawy lub herbaty), mierz temperaturę, nawet jeśli nie masz jeszcze gorączki. Jeśli to możliwe waż się raz dziennie. Należy również zwrócić uwagę na częstość oddechów i uderzeń serca w ciągu minuty. Przywykniesz do robienia tych pomiarów oraz obserwacji i jeśli zaczniesz wcześniej poznasz jak wyglądają (mniej więcej) Twoje standardowe wartości. Nie jest to konieczne, ale dodatkowe możliwości pomiarów to ciśnienie krwi i natlenienie (Urządzenia do wykonania tych pomiarów sa w przystępnej cenie, informacje na [strona zakupów](/zakupy)). 
+Kilka razy dziennie, najlepiej w regularnych godzinach lub w normalnych rytmach (np. codziennie rano przed zrobieniem kawy lub herbaty), mierz temperaturę, nawet jeśli nie masz jeszcze gorączki. Jeśli to możliwe waż się raz dziennie. Należy również zwrócić uwagę na częstość oddechów i uderzeń serca w ciągu minuty. Przywykniesz do robienia tych pomiarów oraz obserwacji i jeśli zaczniesz wcześniej poznasz jak wyglądają (mniej więcej) Twoje standardowe wartości. Nie jest to konieczne, ale dodatkowe możliwości pomiarów to ciśnienie krwi i natlenienie (Urządzenia do wykonania tych pomiarów sa w przystępnej cenie, informacje na [strona zakupów](/shopping). 
 
 Zapisuj wszelkie objawy, jakie ma pacjent. Jeśli cierpi, gdzie i kiedy pojawia się ból, i jak bardzo jest on zły w skali od 0 (brak bólu) do 10 (najgorszy ból, jaki można sobie wyobrazić)? Jakiego typu jest kaszel? Jakiego koloru jest produkowany śluz? Zwróć uwagę, jakie leki pacjent przyjmuje. 
 
