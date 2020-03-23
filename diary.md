@@ -1,6 +1,6 @@
 COVID-19 dziennik
 
-Poniżej przykład, jak może wyglądać strona pamiętnika w Twoim dzienniku COVID. Wygląda na to, że informacje o pacjentach, które przechowywane są w szpitalach, są bardzo podobne. Może się to wydawać trochę przesadzone, ale pozwala na śledzenie tego, jak ktoś sobie radzi, a następnie (w razie potrzeby wizyty u lekarza lub pójścia do szpitala) pozwoli przekazać wszelkie przechowywane dane w formacie, który będą przydatne dla lekarza. Wystarczy wydrukować po jednej stronie na każdy dzień, kiedy pacjent jest chory. Wydrukuj 20-30 stron aby być przygotowanym. Nie martw się, jeśli nie masz sprzętu do wykonywania tych wszystkich pomiarów. (Choć obecnie taki sprzęt jest dość tani i w obecnej sytuacji nie zaszkodzi mieć go na stanie, zobacz [strona z zakupami](/zakupy).)
+Poniżej przykład, jak może wyglądać strona pamiętnika w Twoim dzienniku COVID. Wygląda na to, że informacje o pacjentach, które przechowywane są w szpitalach, są bardzo podobne. Może się to wydawać trochę przesadzone, ale pozwala na śledzenie tego, jak ktoś sobie radzi, a następnie (w razie potrzeby wizyty u lekarza lub pójścia do szpitala) pozwoli przekazać wszelkie przechowywane dane w formacie, który będą przydatne dla lekarza. Wystarczy wydrukować po jednej stronie na każdy dzień, kiedy pacjent jest chory. Wydrukuj 20-30 stron aby być przygotowanym. Nie martw się, jeśli nie masz sprzętu do wykonywania tych wszystkich pomiarów. (Taki sprzęt jest dość tani i w obecnej sytuacji nie zaszkodzi mieć go na stanie, zobacz [strona z zakupami](/shopping).)
 
 <a href="/images/covid-diary.pdf"><img style="border: 2px lity czarny; drop-shadow(16px 16px 10px czarny)" src="/images/covid-diary.png"></a>
 
@@ -16,4 +16,4 @@ Na początku każdego dnia wypełniasz informacje (po prawej stronie). Imię i n
 
 ### Kiedy sprawy robią się poważne
 
-Jeśli pacjenci stają się poważnie chorzy, przejdź do informacji zawartych w rozdziale ["Poziom 4"](/#level-4--professionals-take-over) w głównym tekście poradnika, aby uzyskać wskazówki, kiedy należy wezwać lekarza lub udać się do szpitala. Ten przewodnik, pomoże Ci uzyskać informacje kiedy możesz zostac w domu a kiedy wymaga pobytu w szpitalu. Nie jesteś lekarzem. W każdej sytuacji jeśli nie czujesz się pewnie, wezwij pomoc.
+Jeśli pacjenci stają się poważnie chorzy, przejdź do informacji zawartych w rozdziale ["Poziom 4"](/level4) w głównym tekście poradnika, aby uzyskać wskazówki, kiedy należy wezwać lekarza lub udać się do szpitala. Ten przewodnik, pomoże Ci uzyskać informacje kiedy możesz zostac w domu a kiedy wymaga pobytu w szpitalu. Nie jesteś lekarzem. W każdej sytuacji jeśli nie czujesz się pewnie, wezwij pomoc.
