@@ -16,7 +16,7 @@ Niektórzy z autorów mają krytyczne uwagi do sposobu funkcjonowania agend rzą
 * [Światowa Organizacja Zdrowia](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (Międzynarodowy)
 * [Centra Kontroli Chorób](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
 * [Instytut Roberta Kocha](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Niemcy)
-* [Europejskie Centrum ds. Zapobiegania i Kontroli Chorób] (https://www.ecdc.europa.eu/en) (UE)
+* [Europejskie Centrum ds. Zapobiegania i Kontroli Chorób](https://www.ecdc.europa.eu/en) (UE)
 
 ### Fakty: 
 
