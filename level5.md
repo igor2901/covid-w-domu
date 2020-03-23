@@ -1,6 +1,6 @@
 ## Poziom 5 -- Przeciążenie systemu
 
-### Co jeśli oficjalne kanały są przeciążone?
+### Co jeśli oficjalne służby są przeciążone?
 
 To, co niestety obserwujemy w niektórych obszarach, to fakt, że system opieki medycznej staje się coraz bardziej przeciążony, jeśli zbyt wiele osób choruje w tym samym czasie. Albo nie można się dostać, albo otrzymujemy informację, że karetka będzie potrzebowała więcej czasu na dojazd, szpitale w ogóle nie przyjmują nowych pacjentów, albo niektóre szpitale przedkładają leczenie pewnych grup pacjentów (np. stosunkowo młodych i zdrowych) nad inne grupy (np. osoby starsze i/lub osoby z istniejącymi chorobami).
 
