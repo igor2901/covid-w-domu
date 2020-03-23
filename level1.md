@@ -35,11 +35,11 @@ Poza tym, możesz robić wszystko, aby pozostać jak najzdrowszym:
 * Ćwicz regularnie. Jeśli jest to zalecane lub wymagane, aby pozostać w domu, znajdź sposób, aby pozostać aktywnym: Tańcz do ulubionych piosenek z przyjaciółmi za pośrednictwem wideo-czatu, dołącz do jogi online lub innych zajęć ruchowych, albo spróbuj prostych podstawowych ćwiczeń, takich jak pompki, przysiady i przysiady w połączeniu z prostymi stacjonarnymi ćwiczeniami aerobowymi, takimi jak skakanki, hula hooping i skakanie. 
 * Jeżeli palisz, rzuć palenie.
 * Unikaj intensywnego picia i zażywania innych narkotyków, ponieważ alkohol i inne narkotyki mają tendencję do tłumienia funkcji odpornościowych organizmu.
-* Jeśli chcesz zrobić coś więcej, rozważ [opcje medycyny komplementarnej](https://github.com/covid-w-domu/covid-w-domu.github.io/blob/master/complementary.md), aby poprawić odporność, zapobiegać i leczyć infekcje górnych dróg oddechowych i/lub wirusowe itp. Istnieje pewna liczba potencjalnie użytecznych opcji i specyfików.
+* Jeśli chcesz zrobić coś więcej, rozważ [opcje medycyny komplementarnej](complementary), aby poprawić odporność, zapobiegać i leczyć infekcje górnych dróg oddechowych i/lub wirusowe itp. Istnieje pewna liczba potencjalnie użytecznych opcji i specyfików.
 
 ### Samopoczucie psychiczne
 
-Ta sytuacja może byc trudna i wpłynie na każdego z nas inaczej. patrz strona z [zaleceniami, wskazówkami i wskazówkami dotyczącymi dobrego samopoczucia psychicznego](https://github.com/covid-w-domu/covid-w-domu.github.io/blob/master/psychological.md).
+Ta sytuacja może byc trudna i wpłynie na każdego z nas inaczej. patrz strona z [zaleceniami, wskazówkami i wskazówkami dotyczącymi dobrego samopoczucia psychicznego](/psychological).
 
 ### Przygotuj się
 
