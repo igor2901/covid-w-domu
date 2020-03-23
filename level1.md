@@ -18,7 +18,7 @@ W miarę możliwości należy postępować zgodnie z instrukcjami władz. Obejmu
 * Zamiast jechać środkami komunikacji publicznej, chodź pieszo lub jedź rowerem gdziekolwiek można. W przypadku konieczności skorzystania z transportu publicznego należy ponownie zachować osobisty dystans od innych i oddalić się od osób chorych. 
 * Zamiast chodzić do restauracji, gotuj i jedz w domu. 
 * Zamiast dostarczać jedzenie lub artykuły spożywcze bezpośrednio innej osobie, umów się na ich pozostawienie lub pozostawienie pod drzwiami. 
-* Zamiast spotykać się z przyjaciółmi na kawę lub drinka, zróbcie sobie video-czat lub skoordynujcie spacer do sklepu spożywczego, zachowując jednocześnie [bezpieczną odległość] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) co najmniej 1,5 metra, lub około pięciu stóp od siebie. 
+* Zamiast spotykać się z przyjaciółmi na kawę lub drinka, zróbcie sobie video-czat lub skoordynujcie spacer do sklepu spożywczego, zachowując jednocześnie [bezpieczną odległość](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) co najmniej 1,5 metra, lub około pięciu stóp od siebie. 
 * Zamiast ćwiczyć wewnątrz (np. na siłowni), wyjdź na zewnątrz na spacer lub idź pobiegać, jeśli pogoda na to pozwala, zachowując jednocześnie dystans do innych osób. 
 * Postępuj zgodnie z wszelkimi dodatkowymi poradami rządu / urzędu zdrowia publicznego, w tym z ewentualnymi poradami dotyczącymi przebywania w pomieszczeniach zamkniętych, kiedy to będzie konieczne.
 
