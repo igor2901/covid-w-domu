@@ -35,7 +35,7 @@ Poza tym, możesz robić wszystko, aby pozostać jak najzdrowszym:
 * Ćwicz regularnie. Jeśli jest to zalecane lub wymagane, aby pozostać w domu, znajdź sposób, aby pozostać aktywnym: Tańcz do ulubionych piosenek z przyjaciółmi za pośrednictwem wideo-czatu, dołącz do jogi online lub innych zajęć ruchowych, albo spróbuj prostych podstawowych ćwiczeń, takich jak pompki, przysiady i przysiady w połączeniu z prostymi stacjonarnymi ćwiczeniami aerobowymi, takimi jak skakanki, hula hooping i skakanie. 
 * Jeżeli palisz, rzuć palenie.
 * Unikaj intensywnego picia i zażywania innych narkotyków, ponieważ alkohol i inne narkotyki mają tendencję do tłumienia funkcji odpornościowych organizmu.
-* Jeśli chcesz zrobić coś więcej, rozważ [opcje medycyny komplementarnej](/complimentary), aby poprawić odporność, zapobiegać i leczyć infekcje górnych dróg oddechowych i/lub wirusowe itp. Istnieje pewna liczba potencjalnie użytecznych opcji i specyfików.
+* Jeśli chcesz zrobić coś więcej, rozważ [complementary medicine options](/complementary)[opcje medycyny komplementarnej](/complimentary), aby poprawić odporność, zapobiegać i leczyć infekcje górnych dróg oddechowych i/lub wirusowe itp. Istnieje pewna liczba potencjalnie użytecznych opcji i specyfików.
 
 ### Samopoczucie psychiczne
 
