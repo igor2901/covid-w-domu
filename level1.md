@@ -1,4 +1,4 @@
-## Poziom 1 -- Zdrowy
+## Poziom 1 -- Jesteś Zdrowa(y)
 
 ### Nie zaraź się
 
