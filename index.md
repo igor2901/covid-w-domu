@@ -1,8 +1,18 @@
 Ta strona internetowa (poradnik) została przygotowana w odpowiedzi na pandemię COVID-19, ale wiele z tych porad może mieć zastosowanie w różnych sytuacjach. To o czym tutaj mówimy, może być dla niektórych zbyt oczywiste, ale uznaliśmy, że dobrze jest mieć w jednym miejscu kilka list kontrolnych i porad dotyczących różnych stadiów choroby. Te porady konsultowaliśmy z pielęgniarkami i lekarzami ale większość tego tekstu została napisana przez osoby niewykształcone medycznie, starające się wspólnie przygotowac sie na zaistniałą i dla nas wszystkich nową sytuację. 
 
-Oczywiście zalecamy aby: **Słuchać LOKALNYCH ORGANÓW ZDROWIA, LEKARZY I SŁUŻB MEDYCZNYCH**
+{{ site.disclaimer_begin }}
 
-Kiedy w drugim tygodniu marca 2020 roku zaczęliśmy tworzyć tę stronę w Berlinie, w Niemczech, wiele kwestie na temat wirusa było jeszcze niejasnych, ale liczba zarażonych i zmarłych stale rosła, jak ostatnio we Włoszech. Nie jest to teraz dobry moment na panikę, uważamy jednak że nadszedł czas na refleksję i przygotowanie się.
+## PROSSIMY O ZAPOZNIANIE SIĘ Z TYM KOMUNIKATEM
+
+Żeby było jasne: **Słuchajcie komunikatów LOKALNYCH ŚŁUŻB MEDYCZNYCH, LEKARZY I PIELEGNIAREK**
+
+Informacje zamieszczone na tej stronie internetowej mają wyłącznie charakter informacyjny i nie mogą zastępować porad udzielanych przez lekarza lub wykwalifikowanego pracownika służby zdrowia. Pacjenci nie powinni wykorzystywać podanych tu informacji do diagnozowania stanu zdrowia, objawów lub choroby. Pacjenci powinni zawsze konsultować się z lekarzem lub innym pracownikiem służby zdrowia w celu uzyskania porady medycznej lub informacji o diagnozie i zalecanym leczeniu.
+
+**W NAGŁYCH WYPADKACH NALEŻY WYBRAĆ LOKALNY NUMER TELEFONU ALARMOWEGO.**
+
+{{ site.disclaimer_end }}
+
+Kiedy w drugim tygodniu marca 2020 roku zaczęliśmy w Berlinie tworzyć ten poradnik, wiele kwestie na temat wirusa było jeszcze niejasnych, ale liczba zarażonych i zmarłych stale rosła, jak ostatnio we Włoszech. Nie jest to teraz dobry moment na panikę, uważamy jednak że nadszedł czas na refleksję i przygotowanie się.
 
 ![](/images/virus.png)
 
