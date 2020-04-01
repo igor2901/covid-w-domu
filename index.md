@@ -1,6 +1,6 @@
 Ta strona internetowa (poradnik) została przygotowana w odpowiedzi na pandemię COVID-19, ale wiele z tych porad może mieć zastosowanie w różnych sytuacjach. To o czym tutaj mówimy, może być dla niektórych zbyt oczywiste, ale uznaliśmy, że dobrze jest mieć w jednym miejscu kilka list kontrolnych i porad dotyczących różnych stadiów choroby. Te porady konsultowaliśmy z pielęgniarkami i lekarzami ale większość tego tekstu została napisana przez osoby niewykształcone medycznie, starające się wspólnie przygotowac sie na zaistniałą i dla nas wszystkich nową sytuację. 
 
-{{ site.disclaimer_begin }}
+{{ site.data.tags.disclaimer.begin }}
 
 ## PROSSIMY O ZAPOZNIANIE SIĘ Z TYM KOMUNIKATEM
 
@@ -10,7 +10,7 @@ Informacje zamieszczone na tej stronie internetowej mają wyłącznie charakter 
 
 **W NAGŁYCH WYPADKACH NALEŻY WYBRAĆ LOKALNY NUMER TELEFONU ALARMOWEGO.**
 
-{{ site.disclaimer_end }}
+{{ site.data.tags.disclaimer.end }}
 
 Kiedy w drugim tygodniu marca 2020 roku zaczęliśmy w Berlinie tworzyć ten poradnik, wiele kwestie na temat wirusa było jeszcze niejasnych, ale liczba zarażonych i zmarłych stale rosła, jak ostatnio we Włoszech. Nie jest to teraz dobry moment na panikę, uważamy jednak że nadszedł czas na refleksję i przygotowanie się.
 
