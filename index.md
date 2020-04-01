@@ -4,7 +4,7 @@ Ta strona internetowa (poradnik) została przygotowana w odpowiedzi na pandemię
 
 ## PROSSIMY O ZAPOZNIANIE SIĘ Z TYM KOMUNIKATEM
 
-Żeby było jasne: **Słuchajcie komunikatów LOKALNYCH ŚŁUŻB MEDYCZNYCH, LEKARZY I PIELEGNIAREK**
+Chcemy aby to było absolutnie oczywiste: **Słuchajcie komunikatów LOKALNYCH ŚŁUŻB MEDYCZNYCH, LEKARZY I PIELEGNIAREK**
 
 Informacje zamieszczone na tej stronie internetowej mają wyłącznie charakter informacyjny i nie mogą zastępować porad udzielanych przez lekarza lub wykwalifikowanego pracownika służby zdrowia. Pacjenci nie powinni wykorzystywać podanych tu informacji do diagnozowania stanu zdrowia, objawów lub choroby. Pacjenci powinni zawsze konsultować się z lekarzem lub innym pracownikiem służby zdrowia w celu uzyskania porady medycznej lub informacji o diagnozie i zalecanym leczeniu.
 
