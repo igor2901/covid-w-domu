@@ -25,7 +25,7 @@ W miarę możliwości należy postępować zgodnie z instrukcjami władz. Obejmu
 
 ### Pozostań zdrowy
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 Poza tym, możesz robić wszystko, aby pozostać jak najzdrowszym:
 

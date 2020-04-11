@@ -1,6 +1,6 @@
 ## Poziom 2 -- Pojawiające się symptomy
 
-![](/images/sneezing-emoji.png)
+![](/assets/images/sneezing-emoji.png)
 
 Zwróć uwagę, jeśli doświadczasz któregoś z następujących objawów:
 
@@ -53,7 +53,7 @@ Zapisuj wszelkie objawy, jakie ma pacjent. Jeśli cierpi, gdzie i kiedy pojawia 
 
 Paracetamol (znany również jako acetaminofen) jest dobrym wyborem do tłumienia gorączki i bólu. Prowadzenie dziennika choroby pomoże Ci również śledzić, ile i kiedy zażywałeś lekarstwa, aby zapewnić sobie odpowiednie leczenie gorączki bez przyjmowania większej ilości niż zalecana w ciągu 24 godzin.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/assets/images/diary-small-slanted.png)](/diary)
 
 ### Dziennik chorób z możliwością wydrukowania
 

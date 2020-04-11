@@ -20,7 +20,7 @@ Liczenie oddechu na minutę, trzymając rękę wystarczająco blisko, aby poczu�
 
 Natychmiastowa opieka domowa w przypadku problemów z oddychaniem może obejmować wentylowanie pokoju pacjenta i podparcie go tak, aby mógł on znajdować się w pozycji wyprostowanej, ale wygodnej do odpoczynku. Dobrym pomysłem jest również podniesienie głowy łóżka do spania, jeżeli jest to możliwe, a niektóre pozycje do spania mogą również ułatwić oddychanie (patrz Poziom 3, Praca pielęgnacyjna).
 
-![](/images/dyspnoe.png)
+![](/assets/images/dyspnoe.png)
 
 Jeśli u ciebie lub pacjenta występuje zadyszka / utrudniony oddech, zwróć się o poradę do lekarza. 
 
@@ -28,17 +28,17 @@ Jeśli u ciebie lub pacjenta występuje zadyszka / utrudniony oddech, zwróć si
 
 Jeśli posiadasz oksymetr (patrz [strona zakupów](/zakupy)), każde nasycenie tlenem niższe niż 95% może wskazywać na problem z oddychaniem. Jeśli w którymkolwiek momencie **wargi lub opuszki palców pacjenta staną się niebieskie** (lub nawet lekko niebieskie) (zwane sinicami), należy wezwać karetkę pogotowia! Wartości mniejsze niż 96%, zaczerpnij świeżego powietrza do pokoju i ogrzej pacjenta.
 
-![](/images/cyanosis.png)
+![](/assets/images/cyanosis.png)
 
 (Wezwij też lekarza, jeśli palce, palce u rąk i nóg lub wargi staną się mniej niebieskie niż pokazane na obrazku ...)
 
 Jeśli skóra pacjenta nabierze fioletowych kolorów (zwanych również liveo reticularis) jak na zdjęciu (a to nie jest normalny objaw dla pacjenta), jest to również powód do wezwania pomocy.
 
-![](/images/livedo-reticularis.png)
+![](/assets/images/livedo-reticularis.png)
 
 ### Bardzo niskie ciśnienie krwi
 
-Ciśnienie krwi niższe niż dolna część zakresu normalnego (90 mmHg skurczowe, 60 mmHg rozkurczowe) jest powodem do obaw. Należy pamiętać, że ciśnienie krwi ma dwie wartości: skurczowe i rozkurczowe. Jeśli masz tanie urządzenie automatyczne, powinno ono podawać oba te numery. Jeśli masz urządzenie, zanotuj ciśnienie skurczowe na [formularzu pamiętnika](/images/covid-diary.pdf).
+Ciśnienie krwi niższe niż dolna część zakresu normalnego (90 mmHg skurczowe, 60 mmHg rozkurczowe) jest powodem do obaw. Należy pamiętać, że ciśnienie krwi ma dwie wartości: skurczowe i rozkurczowe. Jeśli masz tanie urządzenie automatyczne, powinno ono podawać oba te numery. Jeśli masz urządzenie, zanotuj ciśnienie skurczowe na [formularzu pamiętnika](/assets/images/covid-diary.pdf).
 
 Jeśli nie masz urządzenia do pomiaru ciśnienia krwi lub masz problemy z odczytem, zamiast tego przetestuj czas napełniania naczyń włosowatych pacjenta. Sprawdź to, umieszczając palce płasko na twardej powierzchni. Użyj palca, aby nacisnąć na jeden z jego palców lub paznokci. Paznokieć powinien stracić swój naturalny kolor. Sprawdź, ile czasu zajmie paznokciowi ponowne obrócenie normalnego koloru. To powinno zająć 1-2 sekundy. Dłuższy czas może wskazywać na niskie ciśnienie krwi. To może być również objaw odwodnienia. 
 

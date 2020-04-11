@@ -6,11 +6,11 @@ Opieka na Poziomie 2 nie zadziałała i wszystko się pogarsza. To nie znaczy, �
 
 To wtedy zaczynasz mówić osobom wokół siebie, że jesteś naprawdę chory i w większości przypadków jesteś w łóżku. Porozmawiaj z kimś, komu ufasz, o tym, jak będzie musiał się tobą zaopiekować. Niech ta osoba lub ci ludzie przeczytają ten dokument. Jeśli masz w swoim otoczeniu ludzi, którzy mieli już COVID-19 (coś, co z czasem stanie się coraz bardziej powszechne), tacy ludzie będą naturalnie najlepszymi opiekunami, ponieważ prawdopodobnie będą COVID-19 odporni. W przeciwnym razie spróbuj ocenić, co jest najmądrzejsze w twojej sytuacji. Nie czekaj z tym aż do ostatniej chwili, bo jeśli choroba będzie postępować, zabraknie ci sił, co nieuchronnie wpłynie również na twoją zdolność do mówienia i jasnego myślenia.
 
-![](/images/sick-in-bed.png)
+![](/assets/images/sick-in-bed.png)
 
 ### W każdym razie
 
-* Zostań w łóżku. W tym momencie odpoczynek jest bardzo ważny. Pacjent powinien spać jak najwięcej. Przynajmniej na początku pacjenci nadal będą mogli wstać z łóżka na ograniczony czas. Toaleta, szybko spłukiwany prysznic, raz dziennie pomiary wagi [w pamiętniku](/images/covid-diary.pdf). Nałóż nowe prześcieradła na łóżko tak często, jak to możliwe i pierz stare prześcieradła w temperaturze 60 stopni Celsjusza lub większej.
+* Zostań w łóżku. W tym momencie odpoczynek jest bardzo ważny. Pacjent powinien spać jak najwięcej. Przynajmniej na początku pacjenci nadal będą mogli wstać z łóżka na ograniczony czas. Toaleta, szybko spłukiwany prysznic, raz dziennie pomiary wagi [w pamiętniku](/assets/images/covid-diary.pdf). Nałóż nowe prześcieradła na łóżko tak często, jak to możliwe i pierz stare prześcieradła w temperaturze 60 stopni Celsjusza lub większej.
 * Wentyluj pokój tak często, jak to możliwe.
 * Pij więcej wody! (więcej niż 2 litry i mniej niż 5 litrów dziennie).
 * Spróbuj jeść pokarmy bogate w witaminy, ale napój multiwitaminowy też jest w porządku.
@@ -36,7 +36,7 @@ Niektóre z możliwych użytecznych zachowań:
 
 ### Dziennik choroby
 
-Jak wspomniano w poprzedniej sekcji, możesz użyć tego [formularz do wydruku](/images/covid-diary.pdf), lub zrobić swój własny. 
+Jak wspomniano w poprzedniej sekcji, możesz użyć tego [formularz do wydruku](/assets/images/covid-diary.pdf), lub zrobić swój własny. 
 
 Na tym etapie należy szczególnie uważać i odnotowywać objawy, które mogą sugerować pogorszenie. Przeczytaj następną sekcję, aby uzyskać więcej szczegółów, ale są to zawroty głowy lub szybkie tętno (pij więcej i jedz coś, jeśli możesz), szybkie oddychanie (unieś głowę w pozycji leżącej lub opuść ją do stołu w pozycji siedzącej, aby ułatwić oddychanie) oraz niebieski odcień na opuszkach palców lub wargach (sinica - zaczerpnij świeżego powietrza, ogrzej się i sprawdź dotlenienie krwi, jeśli to możliwe). Należy również rozważyć zastosowanie technik relaksacyjnych w celu spowolnienia szybkiego oddychania lub tętna, które mogą być częściowo spowodowane lękiem: Posłuchaj kojącej muzyki, skontaktuj się z przyjacielem elektronicznie lub sprawdź, czy możesz spowolnić swój oddech i obniżyć tętno, licząc dłużej dla silnego wydechu niż dla delikatnego wdechu. (Niektóre osoby używają 4-7-8, a inne wolą 5-2-5, aby spróbować spowolnić ich wzorce wdychania i wstrzymywania oddechu).
 

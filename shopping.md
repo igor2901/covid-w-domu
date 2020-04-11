@@ -8,7 +8,7 @@ Zamieszczone przykłady (zazwyczaj w niemieckiej wersji Amazon) nie są rekomend
 
 * **Termometr** (2-10 EUR/USD) ([przykład](https://www.amazon.de/gp/product/B001NYHXYS))
 
-   > ![](/images/thermometer.png)
+   > ![](/assets/images/thermometer.png)
    >
    > To ważne, więc warto sprawdzić, czy termometr nie jest w szafce łazienkowej od wieków. Czy bateria jest nadal sprawna? Nie zaszkodzi mieć dwa, na wszelki wypadek. Za kilka dolarów można zrobić wspaniały prezent. Ponieważ badania temperatury mogę być robione w miejscach intymnych, aby uzyskać bardziej precyzyjny pomiar, to mogą być to przedmioty do użytku indywidualnego.
 
@@ -25,29 +25,29 @@ Zamieszczone przykłady (zazwyczaj w niemieckiej wersji Amazon) nie są rekomend
 ### Warto mieć
 
 * **Tlenoksymetr pulsacyjny** (20-25 EUR/USD) ([przykład](https://www.amazon.de/gp/product/B07P3ZS6L3))  **Opis poniżej!**
-   > ![](/images/pulse-oxi.png)
+   > ![](/assets/images/pulse-oxi.png)
    >
    > Mały gadżet, przyczepiany do palca pokazuje tętno (łatwe do zmierzenia w inny sposób) oraz nasycenie krwi tlenem (ten pomiar jest trudny do wykonania w inny sposób).
 
 * **Ciśnieniomierz krwi** (20 EUR/USD lub więcej) ([przykład](https://www.amazon.de/gp/product/B07KY867ZH))  **Opis poniżej!**
-   > ![](/images/blood-pressure.png)
+   > ![](/assets/images/blood-pressure.png)
    >
    > Istnieją proste sposoby, aby sprawdzić, czy czyjeś ciśnienie krwi jest zbyt niskie (patrz tekst na stronie głównej). Mogą być jednak przydatne pomiary bardziej obiektywne, zwłaszcza jeśli chcesz zobaczyć/pokazać trend w ciśnieniu krwi pacjenta.<br>
    > **Jednakże... czego nie warto robić:** * * Mierząc ciśnienia krwi nie należy panikować, jeśli ciśnienie krwi jest wyższe lub niższe od znajdowanych w Internecie informacji o „normalnym zakresie”. Wiele osób ma wysokie lub niskie ciśnienie krwi, a stres podnosi ciśnienie krwi (i rytm serca). O ile podwyższone ciśnienie krwi w dłuższym okresie czasu z pewnością może być czymś, o czym i tak chciałbyś wspomnieć swojemu lekarzowi, o tyle NIE JEST TO PROBLEM KTÓRYM CHCESZ ZAWRACAĆ GŁOWĘ LEKARZOWI W CZASIE TRWANIA PANDEMII."*
    
 * **Nieprzemakalne prześcieradła stosowane przy nietrzymaniu moczu** (20 EUR/USD lub więcej) ([przykład](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) lub [przykład](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/images/sheet.png)
+   > ![](/assets/images/sheet.png)
    >
    > w przypadku choroby takie sytuacje się zdarzają więc warto byc przygotowanym.
 
 * **Inhalator parowy** (25 EUR/USD lub więcej) ([przykład](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/images/steam.png)
+   > ![](/assets/images/steam.png)
    >
    > Często sprzedawany jako "sauna twarzy" czy pod inną nazwą, to urządzenie, które podaje parę, która nie jest zbyt gorąca, by oddychać. Każda inna metoda wytwarzająca parę jest również przydatna, upewnij się tylko, że nie wyrządzisz szkody zbyt gorącą parą. Urządzenie pobiera wodę zdemineralizowaną ([przykład](https://www.amazon.de/gp/product/B07J5Y95MQ)), na to warto zwrócić uwagę w miejscach, gdzie woda wodociągowa ma wysoką zawartość wapnia. 
    > **Ostrzeżenie:** Ciepłe, mokre urządzenia są doskonałym sposobem na rozprzestrzenianie się wirusa. Warto używać dla jednej chorej osoby na raz lub dokładnie oczyścić po każdym użyciu.
 
 * **Witaminy** (kilka EUR/USD) ([przykład](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/images/multi-vitamin.png)
+   > ![](/assets/images/multi-vitamin.png)
    >
    > Potrzebne w sytuacji gdyby pacjent nie jadł już (dużo), ale nadal pił. Zaopatrz się w kilka tubek dużych musujących tabletek multiwitaminy. Spróbuj kupić te, które zawierają około 1-2 dziennej zalecanej dawki wszystkich witamin i minerałów. Nie warto stosowac mega dawek
 
@@ -68,7 +68,7 @@ Niektórzy są w panice zakupów i kupują nadmiar produktów. Dodatkowo częś�
 Przede wszystkim mówimy: **Słuchaj oficjalnych porad, czegoo *nie* kupować**, aby nie doprowadzić do sytuacji gdy produkty pierwszej potrzeby będą niedostępne dla lekarzy i pielęgniarek. W odniesieniu np. do masek polityka vs ogólna praktyka będą się przez pewien czas różnić. Wyjście na zewnątrz z maską lub noszenie jej w życiu codziennym, jeśli jesteś zdrowy, nie jest poparte naukowymi dowodami jako niezbędne i uzasadnione. Jeśli masz dostęp do maski noszenie jej ma sens jeśli czujesz się chory lub kaszlesz, koniecznie stosuj ją jak wychodzisz na zewnątrz. Ma to również sens, jeśli opiekujesz się kimś, kto jest chory. W niektórych krajach jest to nawet obowiązkowe w protokołach COVID dotyczących kwarantanny w domach opieki. Sprawdź, w jakich okolicznościach władze dostarczą ci maski. Wróć do głownej strony poradnika aby przeczytać o sposobach powstrzymania rozprzestrzeniania się wirusa.
 
 * **Maska medyczna, najlepiej N95** (kilka EUR/USD)
-   > ![](/images/mask.png)
+   > ![](/assets/images/mask.png)
    >
    > Zalecane są również półmaski FFP2 lub FFP3. Zwykła maska twarzowa (chirurgiczna lub proceduralna) jest lepsza niż nic, jeśli nie można uzyskać respiratora. Należy pamiętać, że respiratory są dostępne w wersji z zaworem i bez zaworu. Zawór (często okrągły z tworzywa sztucznego) wypuszcza wydychane powietrze w stanie niefiltrowanym. W porządku, jeśli jesteś w masce stosowanej w malowaiu natryskowym jeśli chronisz znanego zdrowego człowieka przed znanym chorym, ale w żadnym wypadku chory nie powinien nosić wersji z zaworem. 
 
@@ -77,7 +77,7 @@ Przede wszystkim mówimy: **Słuchaj oficjalnych porad, czegoo *nie* kupować**,
    > Najlepiej, jeśli znajdziesz suknię lub płaszcz z długimi rękawami, wodoodporną. 
 
 * **Rękawice** (mniej niż EUR/USD) ([przykład](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
+   > ![](/assets/images/gloves.png)
 
 * **Ochrona oczu, gogle lub osłona twarzy** (kilka EUR/USD) ([przykład](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/glasses.png)
+   > ![](/assets/images/glasses.png)
