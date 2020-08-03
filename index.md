@@ -2,7 +2,7 @@ Ta strona internetowa (poradnik) została przygotowana w odpowiedzi na pandemię
 
 {{ site.data.tags.disclaimer.begin }}
 
-## PROSSIMY O ZAPOZNIANIE SIĘ Z TYM KOMUNIKATEM
+## PROSIMY O ZAPOZNIANIE SIĘ Z TYM KOMUNIKATEM
 
 Chcemy aby to było absolutnie oczywiste: **Należy słuchać komunikatów LOKALNYCH SŁUŻB MEDYCZNYCH, LEKARZY I PIELEGNIAREK**
 
